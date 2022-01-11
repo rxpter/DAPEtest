@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x79b12bF3604eEEBf0d31633D0B701b2E6768752F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x79b12bf3604eeebf0d31633d0b701b2e6768752f#readContract",
+  "NETWORK": {
+    "NAME": "Rinkeyby",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "DAPES",
+  "SYMBOL": "dape",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
